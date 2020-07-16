@@ -1,4 +1,5 @@
 [
+{"code":"130000000", "name":"Metro Manila / NCR", "region":"NCR", "islandgroup":"Luzon"},
 {"code":"140100000", "name":"Abra", "region":"CAR", "islandgroup":"Luzon"},
 {"code":"160200000", "name":"Agusan Del Norte", "region":"Caraga", "islandgroup":"Mindanao"},
 {"code":"160300000", "name":"Agusan Del Sur", "region":"Caraga", "islandgroup":"Mindanao"},
@@ -47,7 +48,6 @@
 {"code":"153800000", "name":"Maguindanao", "region":"ARMM", "islandgroup":"Mindanao"},
 {"code":"174000000", "name":"Marinduque", "region":"MIMAROPA", "islandgroup":"Luzon"},
 {"code":"054100000", "name":"Masbate", "region":"Bicol", "islandgroup":"Luzon"},
-{"code":"137600000", "name":"Metro Manila", "region":"NCR", "islandgroup":"Luzon"},
 {"code":"104200000", "name":"Misamis Occidental", "region":"Northern Mindanao", "islandgroup":"Mindanao"},
 {"code":"104300000", "name":"Misamis Oriental", "region":"Northern Mindanao", "islandgroup":"Mindanao"},
 {"code":"144400000", "name":"Mountain Province", "region":"CAR", "islandgroup":"Luzon"},
