@@ -13,5 +13,7 @@ JSON Arrays of code-name pairs
 3. barangaylist
 	* JSON array of barangays under city/municipality (from corresponding code in citylist entry)
 		> e.g. barangay list of 160306000 (Prosperidad, Agusan Del Sur) barangaylist/160306000.json
+4. barangayname
+	* Same as barangaylist, but replaced numerical list with empty array
 
 
