@@ -4,10 +4,9 @@
 {"code":"126511003", "name":"Calean"},
 {"code":"126511004", "name":"Carmen"},
 {"code":"126511005", "name":"D'Ledesma"},
-{"code":"126511006", "name":"Gansing"},
+{"code":"126511008", "name":"Enrique JC Montilla (Lower Katungal)"},
 {"code":"126511007", "name":"Kalandagan"},
 {"code":"126511023", "name":"Lancheta"},
-{"code":"126511008", "name":"Lower Katungal"},
 {"code":"126511010", "name":"New Isabela"},
 {"code":"126511011", "name":"New Lagao"},
 {"code":"126511012", "name":"New Passi"},
@@ -18,5 +17,6 @@
 {"code":"126511019", "name":"San Pablo"},
 {"code":"126511022", "name":"San Rafael"},
 {"code":"126511021", "name":"Tina"},
-{"code":"126511020", "name":"Upper Katungal"}
+{"code":"126511020", "name":"Upper Katungal"},
+{"code":"126511006", "name":"Virginia Griño (Gansing)"}
 ]

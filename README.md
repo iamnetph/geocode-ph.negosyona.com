@@ -7,6 +7,7 @@ JSON Arrays of code-name pairs
 	* Includes region and island group attribute
 2. citylist
 	* JSON array of city/municipality under a province code (from province.json)
+	* e.g. city/municipality list of 160300000 (Agusan Del Sur) citylist/160306000.json
 3. barangaylist
 	* JSON array of barangays under city/municipality (from corresponding code in citylist entry)
-
+	* e.g. barangay list of 160306000 (Prosperidad, Agusan Del Sur) barangaylist/160306000.json
