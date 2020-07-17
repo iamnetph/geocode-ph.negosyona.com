@@ -1,5 +1,5 @@
 [
-{"code":"130000000", "name":"Metro Manila / NCR", "region":"NCR", "islandgroup":"Luzon"},
+{"code":"130000000", "name":"Metro Manila", "region":"NCR", "islandgroup":"Luzon"},
 {"code":"140100000", "name":"Abra", "region":"CAR", "islandgroup":"Luzon"},
 {"code":"160200000", "name":"Agusan Del Norte", "region":"Caraga", "islandgroup":"Mindanao"},
 {"code":"160300000", "name":"Agusan Del Sur", "region":"Caraga", "islandgroup":"Mindanao"},
