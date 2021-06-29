@@ -1,5 +1,5 @@
 # Philippine Standard Geographical Code JSON
-*from March 31, 2020 [PSGC](https://psa.gov.ph/classification/psgc/)*
+*from March 31, 2021 [PSGC](https://psa.gov.ph/classification/psgc/)*
 
 JSON Arrays of code-name pairs
 1. province.json
